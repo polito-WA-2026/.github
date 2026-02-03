@@ -32,8 +32,8 @@ See the [Detailed Schedule](/profile/SCHEDULE.md) for each day topics and variat
 
 | Day      | Hour        | Location | Type          | Note                                                                 |
 |----------|-------------|----------|---------------|----------------------------------------------------------------------|
-| Monday   | 13:00-16:00 | Room ??? | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
-| Tuesday  | 14:30-16:00 | Room ??? | Lab - Group#1 | lab starts on March 3, 2026                                          |
-| Tuesday  | 16:00-17:30 | Room ??? | Lab - Group#2 | lab starts on March 3, 2026                                          |
-| Thursday | 08:30-11:30 | Room ??? | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
-| Thursday | 13:00-14:30 | Room ??? | Lab - Group#3 | lab starts on March 3, 2026                                          |
+| Monday   | 13:00-16:00 | Room R3  | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
+| Tuesday  | 14:30-16:00 | Room 8i  | Lab - Group#1 | lab starts on March 3, 2026                                          |
+| Tuesday  | 16:00-17:30 | Room 8i  | Lab - Group#2 | lab starts on March 3, 2026                                          |
+| Thursday | 08:30-11:30 | Room R3  | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
+| Thursday | 13:00-14:30 | Room 9T  | Lab - Group#3 | lab starts on March 3, 2026                                          |
