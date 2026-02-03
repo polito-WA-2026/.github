@@ -1,6 +1,6 @@
 # Web Applications (2025/2026)
 
-Material for the course of _Web Applications_ (in English) for the [Master Degree in Cybersecurity](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy.  
+Material for the course of _Web Applications_ (in English) for the [Master Degree in Cybersecurity Engineering](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy.  
 Teachers: E. Masala, A. Servetti
 
 ## Course information
