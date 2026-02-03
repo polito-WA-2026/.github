@@ -1,6 +1,6 @@
 # Web Applications (2025/2026)
 
-Detailed schedule for the course of _Web Applications_ (in English) for the [Master Degree in Cybersecurity](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy. Lectures and Labs will be given either by Enrico Masala (EM) or Antonio Servetti (AS).
+Detailed schedule for the course of _Web Applications_ (in English) for the [Master Degree in Cybersecurity Engineering](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy. Lectures and Labs will be given either by Enrico Masala (EM) or Antonio Servetti (AS).
 
 Check regularly for potential changes.
 
