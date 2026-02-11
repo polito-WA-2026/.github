@@ -10,6 +10,6 @@ Check regularly for potential changes.
 | Mon 23 Feb 2026 | 14:30  | Lecture | R3    | EM      | [Intro to Javascript, Array and Strings](https://github.com/polito-WA-2026/materials/blob/main/slides/1-01-javascript-basics.pdf) |  |
 | Tue 24 Feb 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue 24 Feb 2026 | 16:00  | - | - | - | *no activity* |  |
-| Thu 27 Feb 2026 |  8:30  | Lecture | R3    | EM      | [JS Objects and Functions](https://github.com/polito-WA-2026/wa-weeks/blob/main/week01/EXERCISES.md) |  |
-| Thu 27 Feb 2026 | 10:00  | Lecture | R3    | EM      | [JS Exercises on Array and Strings](https://github.com/polito-WA-2026/materials/blob/main/slides/1-02-javascript-objects-functions.pdf) |  |
+| Thu 27 Feb 2026 |  8:30  | Lecture | R3    | EM      | [JS Objects and Functions](https://github.com/polito-WA-2026/materials/blob/main/slides/1-02-javascript-objects-functions.pdf) |  |
+| Thu 27 Feb 2026 | 10:00  | Lecture | R3    | EM      | [JS Exercises on Array and Strings](https://github.com/polito-WA-2026/wa-weeks/blob/main/week01/EXERCISES.md) |  |
 | Thu 27 Feb 2026 | 13:00  | - | - | - | *no activity* |  |
