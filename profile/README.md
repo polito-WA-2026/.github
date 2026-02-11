@@ -21,8 +21,8 @@ Teachers: E. Masala, A. Servetti
 
 ## Lab groups
 - Tuesday 2:30pm for group#1: last names from AA to FA
-- Tuesday 4pm for group#2: last names from FB to MZ
-- Thursday 1pm for group#3: last names from NA to ZZ
+- Tuesday 4pm for group#2: last names from FB to NZ
+- Thursday 1pm for group#3: last names from OA to ZZ
 
 ## Class hours
 
