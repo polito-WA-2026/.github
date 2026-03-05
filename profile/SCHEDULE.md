@@ -20,8 +20,8 @@ Check regularly for potential changes.
 | Thu  5 Mar 2026 |  8:30  | Lecture | R3    | EM      | [JS libraries and packages](https://github.com/polito-WA-2026/materials/blob/main/slides/1-07-javascript-libraries-packages.pdf) |  |
 | Thu  5 Mar 2026 | 10:00  | Lecture | R3    | EM      | [Intro to JS asynchronous programming, interfacing with SQLite](https://github.com/polito-WA-2026/materials/blob/main/slides/1-08-javascript-async-programming.pdf)  |  |
 | Thu  5 Mar 2026 | 13:00  | Lab | 9T | EM | Lab#1 group3: [Getting started with node.js](https://github.com/polito-WA-2026/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
-| Mon  9 Mar 2026 | 13:00  | Lecture | R3    | EM      | [Asynchronous Programming: Promises](https://github.com/polito-WA-2026/materials/blob/main/slides/1-08-javascript-async-programming.pdf) |  |
-| Mon  9 Mar 2026 | 14:30  | Lecture | R3    | EM      | [async/await, examples with db access](https://github.com/polito-WA-2026/materials/blob/main/slides/1-08-javascript-async-programming.pdf) |  |
+| Mon  9 Mar 2026 | 13:00  | Lecture | R3    | EM      | [Asynchronous Programming: Promises](https://github.com/polito-WA-2026/materials/blob/main/slides/1-08-javascript-async-programming.pdf) | Video [:arrow_forward:](https://youtu.be/t7du2GHC_uo) |
+| Mon  9 Mar 2026 | 14:30  | Lecture | R3    | EM      | [async/await, examples with db access](https://github.com/polito-WA-2026/materials/blob/main/slides/1-08-javascript-async-programming.pdf) | Video [:arrow_forward:](https://youtu.be/15CG81Ec76E) |
 | Tue 10 Mar 2026 | 14:30  | Lab | 8i | EM | Lab#2 group1: Node.js with database | - |
 | Tue 10 Mar 2026 | 16:00  | Lab | 8i | EM | Lab#2 group2: Node.js with database | - |
 | Thu 12 Mar 2026 |  8:30  | Lecture | R3    | EM      | Introduction to web applications, HTTP server and ExpressJS |  |
