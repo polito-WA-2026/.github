@@ -24,6 +24,6 @@ Check regularly for potential changes.
 | Mon  9 Mar 2026 | 14:30  | Lecture | R3    | EM      | [async/await](https://github.com/polito-WA-2026/materials/blob/main/slides/1-08-javascript-async-programming.pdf), [examples with db access](https://github.com/polito-WA-2026/wa-weeks/blob/main/week03) |  |
 | Tue 10 Mar 2026 | 14:30  | Lab | 8i | EM | Lab#2 group1: [Node.js with database](https://github.com/polito-WA-2026/materials/blob/main/labs/lab02-node-database.pdf) | - |
 | Tue 10 Mar 2026 | 16:00  | Lab | 8i | EM | Lab#2 group2: [Node.js with database](https://github.com/polito-WA-2026/materials/blob/main/labs/lab02-node-database.pdf) | - |
-| Thu 12 Mar 2026 |  8:30  | Lecture | R3    | EM      | Introduction to web applications, HTTP server and ExpressJS |  |
-| Thu 12 Mar 2026 | 10:00  | Lecture | R3    | EM      | Building an HTTP API server. Examples.  |  |
+| Thu 12 Mar 2026 |  8:30  | Lecture | R3    | EM      | [Introduction to web applications](https://github.com/polito-WA-2026/materials/blob/main/slides/2-01-web-architecture.pdf), [ HTTP server and Express](https://github.com/polito-WA-2026/materials/blob/main/slides/2-02-Express.pdf) |  |
+| Thu 12 Mar 2026 | 10:00  | Lecture | R3    | EM      | [Building an HTTP API server](https://github.com/polito-WA-2026/materials/blob/main/slides/2-03-API.pdf). [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week03/qa-server-v1).  |  |
 | Thu 12 Mar 2026 | 13:00  | Lab | 9T | EM | Lab#2 group3: [Node.js with database](https://github.com/polito-WA-2026/materials/blob/main/labs/lab02-node-database.pdf) | - |
