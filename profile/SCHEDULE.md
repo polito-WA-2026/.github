@@ -27,11 +27,11 @@ Check regularly for potential changes.
 | Thu 12 Mar 2026 |  8:30  | Lecture | R3    | EM      | [Introduction to web applications](https://github.com/polito-WA-2026/materials/blob/main/slides/2-01-web-architecture.pdf), [ HTTP server and Express](https://github.com/polito-WA-2026/materials/blob/main/slides/2-02-Express.pdf) | Video [:arrow_forward:](https://youtu.be/svKAu3pJwts) |
 | Thu 12 Mar 2026 | 10:00  | Lecture | R3    | EM      | [Building an HTTP API server](https://github.com/polito-WA-2026/materials/blob/main/slides/2-03-API.pdf). [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week03/qa-server-v1).  | Video [:arrow_forward:](https://youtu.be/szcP9KaNvYo) |
 | Thu 12 Mar 2026 | 13:00  | Lab | 9T | EM | Lab#2 group3: [Node.js with database](https://github.com/polito-WA-2026/materials/blob/main/labs/lab02-node-database.pdf) | - |
-| Mon 16 Mar 2026 | 13:00  | Lecture | R3    | EM      | [API security](https://github.com/polito-WA-2026/materials/blob/main/slides/2-04-API-security.pdf) | |
-| Mon 16 Mar 2026 | 14:30  | Lecture | R3    | EM      | [Injection example. Exercise: API development](https://github.com/polito-WA-2026/wa-weeks/tree/main/week04) | |
+| Mon 16 Mar 2026 | 13:00  | Lecture | R3    | EM      | [API security](https://github.com/polito-WA-2026/materials/blob/main/slides/2-04-API-security.pdf) | Video [:arrow_forward:](https://youtu.be/ttKRBj2clf8) |
+| Mon 16 Mar 2026 | 14:30  | Lecture | R3    | EM      | [Injection example. Exercise: API development](https://github.com/polito-WA-2026/wa-weeks/tree/main/week04) | Video [:arrow_forward:](https://youtu.be/4AY7niJGUG0) |
 | Tue 17 Mar 2026 | 14:30  | Lab | 8i | AS | Lab#3 group1: [Set-up of an API server with express](https://github.com/polito-WA-2026/materials/blob/main/labs/lab03-express.pdf) | - |
 | Tue 17 Mar 2026 | 16:00  | Lab | 8i | AS | Lab#3 group2: [Set-up of an API server with express](https://github.com/polito-WA-2026/materials/blob/main/labs/lab03-express.pdf) | - |
-| Thu 19 Mar 2026 |  8:30  | Lecture | R3    | EM      | Validation in API. [Introduction to modern browsers](https://github.com/polito-WA-2026/materials/blob/main/slides/3-01-browser-intro.pdf), [HTML](https://github.com/polito-WA-2026/materials/blob/main/slides/3-02-html.pdf). | |
+| Thu 19 Mar 2026 |  8:30  | Lecture | R3    | EM      | [Validation in API](https://github.com/polito-WA-2026/wa-weeks/tree/main/week04). [Introduction to modern browsers](https://github.com/polito-WA-2026/materials/blob/main/slides/3-01-browser-intro.pdf), [HTML](https://github.com/polito-WA-2026/materials/blob/main/slides/3-02-html.pdf). | |
 | Thu 19 Mar 2026 | 10:00  | Lecture | R3    | EM      | [Modern CSS, Flex, Bootstrap](https://github.com/polito-WA-2026/materials/blob/main/slides/3-03-css.pdf). [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week04/html_css). | |
 | Thu 19 Mar 2026 | 13:00  | Lab | 9T | EM | Lab#3 group3: [Set-up of an API server with express](https://github.com/polito-WA-2026/materials/blob/main/labs/lab03-express.pdf) | - |
 | Mon 23 Mar 2026 | 13:00  | Lecture | R3    | EM      | JS in the browser. DOM. | |
@@ -48,6 +48,6 @@ Check regularly for potential changes.
 |                 |        |   |   |   | **EASTER VACATION** |  |
 | Thu  9 Apr 2026 | 13:00  | Lecture | R3    | EM      | Cross-site scripting (XSS). Fetch API.| |
 | Thu  9 Apr 2026 | 14:30  | Lecture | R3    | EM      | Examples. | |
-| Mon 13 Mar 2026 | 13:00  | Lecture | R3    | EM      | Introduction to React | |
-| Mon 13 Mar 2026 | 14:30  | Lecture | R3    | AS      | ... | |
+| Mon 13 Apr 2026 | 13:00  | Lecture | R3    | EM      | Introduction to React | |
+| Mon 13 Apr 2026 | 14:30  | Lecture | R3    | EM      | ... | |
 
