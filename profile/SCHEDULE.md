@@ -34,15 +34,15 @@ Check regularly for potential changes.
 | Thu 19 Mar 2026 |  8:30  | Lecture | R3    | EM      | [Validation in API](https://github.com/polito-WA-2026/wa-weeks/tree/main/week04). [Introduction to modern browsers](https://github.com/polito-WA-2026/materials/blob/main/slides/3-01-browser-intro.pdf), [HTML](https://github.com/polito-WA-2026/materials/blob/main/slides/3-02-html.pdf). | Video [:arrow_forward:](https://youtu.be/rS7RSPysIG8) |
 | Thu 19 Mar 2026 | 10:00  | Lecture | R3    | EM      | [Modern CSS, Flex, Bootstrap](https://github.com/polito-WA-2026/materials/blob/main/slides/3-03-css.pdf). [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week04/html_css). | Video [:arrow_forward:](https://youtu.be/9kyOUTJVwFE) |
 | Thu 19 Mar 2026 | 13:00  | Lab | 9T | EM | Lab#3 group3: [Set-up of an API server with express](https://github.com/polito-WA-2026/materials/blob/main/labs/lab03-express.pdf) | - |
-| Mon 23 Mar 2026 | 13:00  | Lecture | R3    | EM      | JS in the browser. DOM. | |
-| Mon 23 Mar 2026 | 14:30  | Lecture | R3    | EM      | Browser forms and events, example. | |
-| Tue 24 Mar 2026 | 14:30  | Lab | 8i | AS | Lab#4 new group1: API security | |
-| Tue 24 Mar 2026 | 16:00  | Lab | 8i | AS | Lab#4 new group2: API security | |
-| Thu 26 Mar 2026 |  8:30  | Lab | R3    | AS      | Lab#5 new group1: HTML and CSS | |
-| Thu 26 Mar 2026 | 10:00  | Lab | R3    | AS      | Lab#5 new group2: HTML and CSS | |
+| Mon 23 Mar 2026 | 13:00  | Lecture | R3    | EM      | [JS in the browser. DOM.](https://github.com/polito-WA-2026/materials/blob/main/slides/3-04-JS-browser.pdf) | |
+| Mon 23 Mar 2026 | 14:30  | Lecture | R3    | EM      | [Browser forms and events](https://github.com/polito-WA-2026/materials/blob/main/slides/3-04-JS-browser.pdf), [example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week05). | |
+| Tue 24 Mar 2026 | 14:30  | Lab | 8i | AS | Lab#4 new group1: [API security](https://github.com/polito-WA-2026/materials/blob/main/labs/lab04-API-server.pdf) | |
+| Tue 24 Mar 2026 | 16:00  | Lab | 8i | AS | Lab#4 new group2: [API security](https://github.com/polito-WA-2026/materials/blob/main/labs/lab04-API-server.pdf) | |
+| Thu 26 Mar 2026 |  8:30  | Lab | R3    | AS      | Lab#5 new group1: [HTML and CSS](https://github.com/polito-WA-2026/materials/blob/main/labs/lab05-html-css.pdf) | |
+| Thu 26 Mar 2026 | 10:00  | Lab | R3    | AS      | Lab#5 new group2: [HTML and CSS](https://github.com/polito-WA-2026/materials/blob/main/labs/lab05-html-css.pdf) | |
 | Thu 26 Mar 2026 | 13:00  | - | - | - | *Cancelled till the end of course due to low attendance* | *Permanently removed slot* |
-| Mon 30 Mar 2026 | 13:00  | Lab | R3    | AS      | Lab#6 new group1: JS in the browser | |
-| Mon 30 Mar 2026 | 14:30  | Lab | R3    | AS      | Lab#6 new group2: JS in the browser | |
+| Mon 30 Mar 2026 | 13:00  | Lab | R3    | AS      | Lab#6 new group1: [JS in the browser](https://github.com/polito-WA-2026/materials/blob/main/labs/lab06-js-browser.pdf) | |
+| Mon 30 Mar 2026 | 14:30  | Lab | R3    | AS      | Lab#6 new group2: [JS in the browser](https://github.com/polito-WA-2026/materials/blob/main/labs/lab06-js-browser.pdf) | |
 | Tue 31 Mar 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue 31 Mar 2026 | 16:00  | - | - | - | *no activity* |  |
 |                 |        |   |   |   | **EASTER VACATION** |  |
