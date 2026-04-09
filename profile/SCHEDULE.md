@@ -46,8 +46,8 @@ Check regularly for potential changes.
 | Tue 31 Mar 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue 31 Mar 2026 | 16:00  | - | - | - | *no activity* |  |
 |                 |        |   |   |   | **EASTER VACATION** |  |
-| Thu  9 Apr 2026 | 13:00  | Lecture | R3    | EM      | [Cross-site scripting (XSS)](https://github.com/polito-WA-2026/materials/blob/main/slides/3-05-browser-security-XSS.pdf). [Fetch API](https://github.com/polito-WA-2026/materials/blob/main/slides/3-06-fetch.pdf).| |
-| Thu  9 Apr 2026 | 14:30  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week06). | |
+| Thu  9 Apr 2026 | 13:00  | Lecture | R3    | EM      | [Cross-site scripting (XSS)](https://github.com/polito-WA-2026/materials/blob/main/slides/3-05-browser-security-XSS.pdf). [Fetch API](https://github.com/polito-WA-2026/materials/blob/main/slides/3-06-fetch.pdf).| Video [:arrow_forward:](https://youtu.be/TdPoOonJKlY) |
+| Thu  9 Apr 2026 | 14:30  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week06). | Video [:arrow_forward:](https://youtu.be/7OeOnGlB0hw) |
 | Mon 13 Apr 2026 | 13:00  | Lecture | R3    | EM      | Introduction to React | |
 | Mon 13 Apr 2026 | 14:30  | Lecture | R3    | EM      | JSX, components, props. Example | |
 | Tue 14 Apr 2026 | 14:30  | Lab | 8i | AS | Lab#7 new group1: Set-up React | |
