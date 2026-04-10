@@ -50,8 +50,8 @@ Check regularly for potential changes.
 | Thu  9 Apr 2026 | 14:30  | Lecture | R3    | EM      | [Fetch API](https://github.com/polito-WA-2026/materials/blob/main/slides/3-06-fetch.pdf). [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week06). | Video [:arrow_forward:](https://youtu.be/7OeOnGlB0hw) |
 | Mon 13 Apr 2026 | 13:00  | Lecture | R3    | EM      | [Introduction to React](https://github.com/polito-WA-2026/materials/blob/main/slides/4-01-React-intro.pdf) | |
 | Mon 13 Apr 2026 | 14:30  | Lecture | R3    | EM      | [JSX, components, props](https://github.com/polito-WA-2026/materials/blob/main/slides/4-02-Elements-and-JSX.pdf). [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week07) | |
-| Tue 14 Apr 2026 | 14:30  | Lab | 8i | AS | Lab#7 new group1: Set-up React | |
-| Tue 14 Apr 2026 | 16:00  | Lab | 8i | AS | Lab#7 new group2: Set-up React | |
+| Tue 14 Apr 2026 | 14:30  | Lab | 8i | AS | Lab#7 new group1: [Set-up React](https://github.com/polito-WA-2026/materials/blob/main/labs/lab07-getting-started-react.pdf) | |
+| Tue 14 Apr 2026 | 16:00  | Lab | 8i | AS | Lab#7 new group2: [Set-up React](https://github.com/polito-WA-2026/materials/blob/main/labs/lab07-getting-started-react.pdf) | |
 | Thu 16 Apr 2026 |  8:30  | Lecture | R3    | EM      | [Handling state](https://github.com/polito-WA-2026/materials/blob/main/slides/4-03-Components-and-state-management.pdf). | |
 | Thu 16 Apr 2026 | 10:00  | Lecture | R3    | EM      | [State example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week07). | |
 
