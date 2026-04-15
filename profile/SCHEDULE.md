@@ -54,4 +54,9 @@ Check regularly for potential changes.
 | Tue 14 Apr 2026 | 16:00  | Lab | 8i | AS | Lab#7 new group2: [Set-up React](https://github.com/polito-WA-2026/materials/blob/main/labs/lab07-getting-started-react.pdf) | |
 | Thu 16 Apr 2026 |  8:30  | Lecture | R3    | EM      | [Handling state](https://github.com/polito-WA-2026/materials/blob/main/slides/4-03-Components-and-state-management.pdf). | |
 | Thu 16 Apr 2026 | 10:00  | Lecture | R3    | EM      | [State example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week07). | |
-
+| Mon 20 Apr 2026 | 13:00  | Lecture | R3    | EM      | React forms (controlled). |  |
+| Mon 20 Apr 2026 | 14:30  | Lecture | R3    | EM      | Example |  |
+| Tue 21 Apr 2026 | 14:30  | Lab | 8i | AS | Lab#8 new group1: React components and state | |
+| Tue 21 Apr 2026 | 16:00  | Lab | 8i | AS | Lab#8 new group2: React components and state | |
+| Thu 23 Apr 2026 |  8:30  | Lecture | R3    | EM      | React Context. React Router. | |
+| Thu 23 Apr 2026 | 10:00  | Lecture | R3    | EM      | Example | |
