@@ -63,6 +63,6 @@ Check regularly for potential changes.
 | Mon 27 Apr 2026 | 13:00  | Lecture | R3    | EM      | React useEffect. |  |
 | Mon 27 Apr 2026 | 14:30  | Lecture | R3    | EM      | Examples. |  |
 | Tue 28 Apr 2026 | 14:30  | Lab | 8i | EM | Lab#9 new group1: React forms | |
-| Tue 28 Apr 2026 | 16:00  | Lab | 8i | EM; | Lab#9 new group2: React forms | |
+| Tue 28 Apr 2026 | 16:00  | Lab | 8i | EM | Lab#9 new group2: React forms | |
 | Thu 30 Apr 2026 |  8:30  | Lab | R3    | EM      | Lab#10 new group1: React router | |
 | Thu 30 Apr 2026 | 10:00  | Lab | R3    | EM      | Lab#10 new group2: React router | |
