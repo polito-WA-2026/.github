@@ -58,8 +58,8 @@ Check regularly for potential changes.
 | Mon 20 Apr 2026 | 14:30  | Lecture | R3    | EM      | [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week08) | Video [:arrow_forward:](https://youtu.be/ODUS2Emye8U) |
 | Tue 21 Apr 2026 | 14:30  | Lab | 8i | AS | Lab#8 new group1: [React components and state](https://github.com/polito-WA-2026/materials/blob/main/labs/lab08-react-state.pdf) | |
 | Tue 21 Apr 2026 | 16:00  | Lab | 8i | AS | Lab#8 new group2: [React components and state](https://github.com/polito-WA-2026/materials/blob/main/labs/lab08-react-state.pdf) | |
-| Thu 23 Apr 2026 |  8:30  | Lecture | R3    | EM      | React Context. React Router. | |
-| Thu 23 Apr 2026 | 10:00  | Lecture | R3    | EM      | Examples. | |
+| Thu 23 Apr 2026 |  8:30  | Lecture | R3    | EM      | [React Context](https://github.com/polito-WA-2026/materials/blob/main/slides/4-05-Context.pdf). [React Router](https://github.com/polito-WA-2026/materials/blob/main/slides/4-06-React-Router.pdf). | |
+| Thu 23 Apr 2026 | 10:00  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week08). | |
 | Mon 27 Apr 2026 | 13:00  | Lecture | R3    | EM      | React useEffect. |  |
 | Mon 27 Apr 2026 | 14:30  | Lecture | R3    | EM      | Examples. |  |
 | Tue 28 Apr 2026 | 14:30  | Lab | 8i | EM | Lab#9 new group1: React forms | |
