@@ -62,7 +62,7 @@ Check regularly for potential changes.
 | Thu 23 Apr 2026 | 10:00  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week08). | Video [:arrow_forward:](https://youtu.be/cNvfwBoQBxA) |
 | Mon 27 Apr 2026 | 13:00  | Lecture | R3    | EM      | React useEffect. |  |
 | Mon 27 Apr 2026 | 14:30  | Lecture | R3    | EM      | Examples. |  |
-| Tue 28 Apr 2026 | 14:30  | Lab | 8i | EM | Lab#9 new group1: React forms | |
-| Tue 28 Apr 2026 | 16:00  | Lab | 8i | EM | Lab#9 new group2: React forms | |
-| Thu 30 Apr 2026 |  8:30  | Lab | R3    | EM      | Lab#10 new group1: React router | |
-| Thu 30 Apr 2026 | 10:00  | Lab | R3    | EM      | Lab#10 new group2: React router | |
+| Tue 28 Apr 2026 | 14:30  | Lab | 8i | EM | Lab#9 new group1: [React forms](https://github.com/polito-WA-2026/materials/blob/main/labs/lab09-forms.pdf) | |
+| Tue 28 Apr 2026 | 16:00  | Lab | 8i | EM | Lab#9 new group2: [React forms](https://github.com/polito-WA-2026/materials/blob/main/labs/lab09-forms.pdf) | |
+| Thu 30 Apr 2026 |  8:30  | Lab | R3    | EM      | Lab#10 new group1: [React router](https://github.com/polito-WA-2026/materials/blob/main/labs/lab10-router.pdf) | |
+| Thu 30 Apr 2026 | 10:00  | Lab | R3    | EM      | Lab#10 new group2: [React router](https://github.com/polito-WA-2026/materials/blob/main/labs/lab10-router.pdf) | |
