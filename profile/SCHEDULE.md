@@ -66,3 +66,9 @@ Check regularly for potential changes.
 | Tue 28 Apr 2026 | 16:00  | Lab | 8i | EM | Lab#9 new group2: [React forms](https://github.com/polito-WA-2026/materials/blob/main/labs/lab09-forms.pdf) | |
 | Thu 30 Apr 2026 |  8:30  | Lab | R3    | EM      | Lab#10 new group1: [React router](https://github.com/polito-WA-2026/materials/blob/main/labs/lab10-router.pdf) | |
 | Thu 30 Apr 2026 | 10:00  | Lab | R3    | EM      | Lab#10 new group2: [React router](https://github.com/polito-WA-2026/materials/blob/main/labs/lab10-router.pdf) | |
+| Mon  4 May 2026 | 13:00  | Lecture | R3    | EM      | CORS and the two-server issues | |
+| Mon  4 May 2026 | 14:30  | Lecture | R3    | EM      | useEffect examples | |
+| Tue  5 May 2026 | 14:30  | Lab | 8i | EM | Lab#11 new group1: Loading data from server  | |
+| Tue  5 May 2026 | 16:00  | Lab | 8i | EM | Lab#11 new group2: Loading data from server  | |
+| Thu  7 Apr 2026 |  8:30  | Lecture | R3    | EM      | useEffect examples | |
+| Thu  7 Apr 2026 | 10:00  | Lecture | R3    | EM      | Introduction to authentication | |
