@@ -60,8 +60,8 @@ Check regularly for potential changes.
 | Tue 21 Apr 2026 | 16:00  | Lab | 8i | AS | Lab#8 new group2: [React components and state](https://github.com/polito-WA-2026/materials/blob/main/labs/lab08-react-state.pdf) | |
 | Thu 23 Apr 2026 |  8:30  | Lecture | R3    | EM      | [React Context](https://github.com/polito-WA-2026/materials/blob/main/slides/4-05-Context.pdf). [React Router](https://github.com/polito-WA-2026/materials/blob/main/slides/4-06-React-Router.pdf). | Video [:arrow_forward:](https://youtu.be/6HGKBIBrcto) |
 | Thu 23 Apr 2026 | 10:00  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week08). | Video [:arrow_forward:](https://youtu.be/cNvfwBoQBxA) |
-| Mon 27 Apr 2026 | 13:00  | Lecture | R3    | EM      | [React useEffect](https://github.com/polito-WA-2026/materials/blob/main/slides/4-07-LifeCycle.pdf) |  |
-| Mon 27 Apr 2026 | 14:30  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week09) |  |
+| Mon 27 Apr 2026 | 13:00  | Lecture | R3    | EM      | [React useEffect](https://github.com/polito-WA-2026/materials/blob/main/slides/4-07-LifeCycle.pdf) | Video [:arrow_forward:](https://youtu.be/9Os51AaUjTQ) |
+| Mon 27 Apr 2026 | 14:30  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week09) | Video [:arrow_forward:](https://youtu.be/zIxXrCw-z7A) |
 | Tue 28 Apr 2026 | 14:30  | Lab | 8i | EM | Lab#9 new group1: [React forms](https://github.com/polito-WA-2026/materials/blob/main/labs/lab09-forms.pdf) | |
 | Tue 28 Apr 2026 | 16:00  | Lab | 8i | EM | Lab#9 new group2: [React forms](https://github.com/polito-WA-2026/materials/blob/main/labs/lab09-forms.pdf) | |
 | Thu 30 Apr 2026 |  8:30  | Lab | R3    | EM      | Lab#10 new group1: [React router](https://github.com/polito-WA-2026/materials/blob/main/labs/lab10-router.pdf) | |
