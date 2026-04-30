@@ -68,7 +68,7 @@ Check regularly for potential changes.
 | Thu 30 Apr 2026 | 10:00  | Lab | R3    | EM      | Lab#10 new group2: [React router](https://github.com/polito-WA-2026/materials/blob/main/labs/lab10-router.pdf) | |
 | Mon  4 May 2026 | 13:00  | Lecture | R3    | EM      | [CORS and the two-server issues](https://github.com/polito-WA-2026/materials/blob/main/slides/2-05-CORS_and_security.pdf) | |
 | Mon  4 May 2026 | 14:30  | Lecture | R3    | EM      | [useEffect examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week10) | |
-| Tue  5 May 2026 | 14:30  | Lab | 8i | EM | Lab#11 new group1: Loading data from server  | |
-| Tue  5 May 2026 | 16:00  | Lab | 8i | EM | Lab#11 new group2: Loading data from server  | |
+| Tue  5 May 2026 | 14:30  | Lab | 8i | EM | Lab#11 new group1: [Loading data from server](https://github.com/polito-WA-2026/materials/blob/main/labs/lab11-loading-data-from-server.pdf)  | |
+| Tue  5 May 2026 | 16:00  | Lab | 8i | EM | Lab#11 new group2: [Loading data from server](https://github.com/polito-WA-2026/materials/blob/main/labs/lab11-loading-data-from-server.pdf)  | |
 | Thu  7 Apr 2026 |  8:30  | Lecture | R3    | EM      | [useEffect examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week10) | |
 | Thu  7 Apr 2026 | 10:00  | Lecture | R3    | EM      | Introduction to authentication | |
