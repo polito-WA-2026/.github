@@ -70,8 +70,8 @@ Check regularly for potential changes.
 | Mon  4 May 2026 | 14:30  | Lecture | R3    | EM      | [useEffect examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week10) | Video [:arrow_forward:](https://youtu.be/c_MqL3ZUDTE) |
 | Tue  5 May 2026 | 14:30  | Lab | 8i | EM | Lab#11 new group1: [Loading data from server](https://github.com/polito-WA-2026/materials/blob/main/labs/lab11-loading-data-from-server.pdf)  | |
 | Tue  5 May 2026 | 16:00  | Lab | 8i | EM | Lab#11 new group2: [Loading data from server](https://github.com/polito-WA-2026/materials/blob/main/labs/lab11-loading-data-from-server.pdf)  | |
-| Thu  7 Apr 2026 |  8:30  | Lecture | R3    | EM      | [useEffect examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week10) | |
-| Thu  7 Apr 2026 | 10:00  | Lecture | R3    | EM      | [Introduction to authentication](https://github.com/polito-WA-2026/materials/blob/main/slides/2-06-Authentication.pdf) | |
+| Thu  7 Apr 2026 |  8:30  | Lecture | R3    | EM      | [useEffect examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week10) | Video [:arrow_forward:](https://youtu.be/YhJLB1cOIPg) |
+| Thu  7 Apr 2026 | 10:00  | Lecture | R3    | EM      | [Introduction to authentication](https://github.com/polito-WA-2026/materials/blob/main/slides/2-06-Authentication.pdf) | Video [:arrow_forward:](https://youtu.be/cieIdq3DH7g) |
 | Mon 11 May 2026 | 13:00  | Lecture | R3    | EM      | [Authentication and sessions](https://github.com/polito-WA-2026/materials/blob/main/slides/2-06-Authentication.pdf) | |
 | Mon 11 May 2026 | 14:30  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week11) | |
 | Tue 12 May 2026 | 14:30  | Lab | 8i | AS | Lab#12 new group1: [Complete client-server interaction](https://github.com/polito-WA-2026/materials/blob/main/labs/lab12-complete-client-server.pdf) | |
