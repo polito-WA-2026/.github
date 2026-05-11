@@ -76,8 +76,8 @@ Check regularly for potential changes.
 | Mon 11 May 2026 | 14:30  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week11) | |
 | Tue 12 May 2026 | 14:30  | Lab | 8i | AS | Lab#12 new group1: [Complete client-server interaction](https://github.com/polito-WA-2026/materials/blob/main/labs/lab12-complete-client-server.pdf) | |
 | Tue 12 May 2026 | 16:00  | Lab | 8i | AS | Lab#12 new group2: [Complete client-server interaction](https://github.com/polito-WA-2026/materials/blob/main/labs/lab12-complete-client-server.pdf)  | |
-| Thu 14 May 2026 |  8:30  | Lecture | R3    | EM      | Multi-Factor Authentication, TOTP | |
-| Thu 14 May 2026 | 10:00  | Lecture | R3    | EM      | [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week11), security considerations | |
+| Thu 14 May 2026 |  8:30  | Lecture | R3    | EM      | [Multi-Factor Authentication, TOTP](https://github.com/polito-WA-2026/materials/blob/main/slides/2-07-MFA-TOTP.pdf) | |
+| Thu 14 May 2026 | 10:00  | Lecture | R3    | EM      | [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week11), [Auth security considerations](https://github.com/polito-WA-2025/materials/blob/main/slides/4-08-Auth-security.pdf) | |
 |                 |        |   |   |   | **Below is a TENTATIVE schedule** |  |
 | Mon 18 May 2026 | 13:00  | - | - | - | *no activity* |  |
 | Mon 18 May 2026 | 14:30  | - | - | - | *no activity* |  |
