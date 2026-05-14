@@ -76,16 +76,15 @@ Check regularly for potential changes.
 | Mon 11 May 2026 | 14:30  | Lecture | R3    | EM      | [Examples](https://github.com/polito-WA-2026/wa-weeks/tree/main/week11) | Video [:arrow_forward:](https://youtu.be/6q0qRN47h1s) |
 | Tue 12 May 2026 | 14:30  | Lab | 8i | AS | Lab#12 new group1: [Complete client-server interaction](https://github.com/polito-WA-2026/materials/blob/main/labs/lab12-complete-client-server.pdf) | |
 | Tue 12 May 2026 | 16:00  | Lab | 8i | AS | Lab#12 new group2: [Complete client-server interaction](https://github.com/polito-WA-2026/materials/blob/main/labs/lab12-complete-client-server.pdf)  | |
-| Thu 14 May 2026 |  8:30  | Lecture | R3    | EM      | [Multi-Factor Authentication, TOTP](https://github.com/polito-WA-2026/materials/blob/main/slides/2-07-MFA-TOTP.pdf) | |
-| Thu 14 May 2026 | 10:00  | Lecture | R3    | EM      | [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week11), [Auth security considerations](https://github.com/polito-WA-2025/materials/blob/main/slides/4-08-Auth-security.pdf) | |
-|                 |        |   |   |   | **Below is a TENTATIVE schedule** |  |
+| Thu 14 May 2026 |  8:30  | Lecture | R3    | EM      | [Multi-Factor Authentication, TOTP](https://github.com/polito-WA-2026/materials/blob/main/slides/2-07-MFA-TOTP.pdf) | Video [:arrow_forward:](https://youtu.be/a7zqwnMxkPI) |
+| Thu 14 May 2026 | 10:00  | Lecture | R3    | EM      | [Example](https://github.com/polito-WA-2026/wa-weeks/tree/main/week11), [Auth security considerations](https://github.com/polito-WA-2025/materials/blob/main/slides/4-08-Auth-security.pdf) | Video [:arrow_forward:](https://youtu.be/a-ynPOBYjI8) |
 | Mon 18 May 2026 | 13:00  | - | - | - | *no activity* |  |
 | Mon 18 May 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue 19 May 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue 19 May 2026 | 16:00  | - | - | - | *no activity* |  |
 | Thu 21 May 2026 |  8:30  | - | - | - | *no activity* |  |
 | Thu 21 May 2026 | 10:00  | - | - | - | *no activity* |  |
-| Mon 25 May 2026 | 13:00  | - | - | - | Security considerations (only if not finished on Thu 14 May 2026) |  |
+| Mon 25 May 2026 | 13:00  | - | - | - | *no activity* |  |
 | Mon 25 May 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue 26 May 2026 | 14:30  | Lab | 8i | EM | Lab#13 new group1: Authentication | |
 | Tue 26 May 2026 | 16:00  | Lab | 8i | EM | Lab#13 new group2: Authentication  | |
