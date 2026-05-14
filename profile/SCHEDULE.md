@@ -86,10 +86,10 @@ Check regularly for potential changes.
 | Thu 21 May 2026 | 10:00  | - | - | - | *no activity* |  |
 | Mon 25 May 2026 | 13:00  | - | - | - | *no activity* |  |
 | Mon 25 May 2026 | 14:30  | - | - | - | *no activity* |  |
-| Tue 26 May 2026 | 14:30  | Lab | 8i | EM | Lab#13 new group1: Authentication | |
-| Tue 26 May 2026 | 16:00  | Lab | 8i | EM | Lab#13 new group2: Authentication  | |
-| Thu 28 May 2026 |  8:30  | Lab | R3   | EM | Lab#14 new group1: 2FA with TOTP  |  |
-| Thu 28 May 2026 | 10:00  | Lab | R3   | EM | Lab#14 new group2: 2FA with TOTP  |  |
+| Tue 26 May 2026 | 14:30  | Lab | 8i | EM | Lab#13 new group1: [Authentication](https://github.com/polito-WA-2026/materials/blob/main/labs/lab13-authentication.pdf) | |
+| Tue 26 May 2026 | 16:00  | Lab | 8i | EM | Lab#13 new group2: [Authentication](https://github.com/polito-WA-2026/materials/blob/main/labs/lab13-authentication.pdf)  | |
+| Thu 28 May 2026 |  8:30  | Lab | R3   | EM | Lab#14 new group1: [2FA with TOTP](https://github.com/polito-WA-2026/materials/blob/main/labs/lab14-otp.pdf)  |  |
+| Thu 28 May 2026 | 10:00  | Lab | R3   | EM | Lab#14 new group2: [2FA with TOTP](https://github.com/polito-WA-2026/materials/blob/main/labs/lab14-otp.pdf)  |  |
 | Fri 29 May 2026 | -      |	-  |	- | - | **TEXT of first exam PUBLISHED** |  |
 | Mon  1 Jun 2026 | 13:00  | - | - | - | *no activity* |  |
 | Mon  1 Jun 2026 | 14:30  | - | - | - | *no activity* |  |
