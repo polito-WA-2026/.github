@@ -5,11 +5,12 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
 ## Exam
 
 * General information and instructions:
-  - Common instructions for all exams are reported at the end of each exam text (if curious, have a look at last year's exam text, link at the end of this document)
-  - GitHub Classroom submission instructions (will be published later during the course)
+  - [GitHub Classroom submission instructions](https://github.com/polito-WA-2026/.github/blob/main/profile/GH-Classroom-Instructions-WA-2026.pdf)
   - [Most frequent errors and how to avoid them (version 3.0)](https://github.com/polito-WA-2026/.github/blob/main/profile/WA_Most_Frequent_Errors_v3.0.pdf)
 
-Exam texts will be published here 
+* [Exam #1: Theater](https://docs.google.com/document/d/1ELQnjqSU_-_uDVVcMuQlOG-ZT4_KkJBa-Phkq1Q2mt8/edit?usp=sharing) (deadline: Jun 18, 2026, 11:59pm)
+  - Doubts and questions to be put as COMMENTS in this doc, DO NOT DELETE or RESOLVE any existing comment, DO NOT edit text. Before adding doubts/questions, please check if a comment for your doubt already exists, please do not insert duplicate questions.
+  - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/qm-fpFT_](https://classroom.github.com/a/qm-fpFT_)
 
 
 ## Exam rules
