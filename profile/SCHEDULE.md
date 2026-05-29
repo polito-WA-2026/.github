@@ -90,7 +90,7 @@ Check regularly for potential changes.
 | Tue 26 May 2026 | 16:00  | Lab | 8i | EM | Lab#13 new group2: [Authentication](https://github.com/polito-WA-2026/materials/blob/main/labs/lab13-authentication.pdf)  | |
 | Thu 28 May 2026 |  8:30  | Lab | R3   | EM | Lab#14 new group1: [2FA with TOTP](https://github.com/polito-WA-2026/materials/blob/main/labs/lab14-otp.pdf)  |  |
 | Thu 28 May 2026 | 10:00  | Lab | R3   | EM | Lab#14 new group2: [2FA with TOTP](https://github.com/polito-WA-2026/materials/blob/main/labs/lab14-otp.pdf)  |  |
-| Fri 29 May 2026 | -      |	-  |	- | - | **TEXT of first exam PUBLISHED** |  |
+| Fri 29 May 2026 | -      |	-  |	- | - | **[TEXT of first exam PUBLISHED](https://github.com/polito-WA-2026/.github/blob/main/profile/EXAM.md)** |  |
 | Mon  1 Jun 2026 | 13:00  | - | - | - | *no activity* |  |
 | Mon  1 Jun 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue  2 Jun 2026 | 14:30  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
