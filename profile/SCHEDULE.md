@@ -95,8 +95,8 @@ Check regularly for potential changes.
 | Mon  1 Jun 2026 | 14:30  | - | - | - | *no activity* |  |
 | Tue  2 Jun 2026 | 14:30  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
 | Tue  2 Jun 2026 | 16:00  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
-| Thu  4 Jun 2026 |  8:30  | Lez | - | - | Example: designing the solution for an [actual (past) exam](https://github.com/polito-WA-2026/wa-weeks/blob/main/week12/WA26_SampleExam_StudyPlan_otp.pdf) |  |
-| Thu  4 Jun 2026 | 10:00  | Lez | - | - | Example: designing the solution for an [actual (past) exam](https://github.com/polito-WA-2026/wa-weeks/blob/main/week12/WA26_SampleExam_StudyPlan_otp.pdf) |  |
+| Thu  4 Jun 2026 |  8:30  | Lez | - | - | Example: designing the solution for an [actual (past) exam](https://github.com/polito-WA-2026/wa-weeks/blob/main/week12/WA26_SampleExam_StudyPlan_otp.pdf) | Video [:arrow_forward:](https://youtu.be/lOz1j_KkKEU) |
+| Thu  4 Jun 2026 | 10:00  | Lez | - | - | Example: designing the solution for an [actual (past) exam](https://github.com/polito-WA-2026/wa-weeks/blob/main/week12/WA26_SampleExam_StudyPlan_otp.pdf) | Video [:arrow_forward:](https://youtu.be/kxbsAQaMDHQ) |
 | Thu  4 Jun 2026 | -      |  -  |  - | - | **END OF COURSE** |  |
 | Thu 18 Jun 2026 | -      |	-  |	- | - | **TEXT of second exam PUBLISHED** |  |
 
