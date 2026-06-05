@@ -9,7 +9,8 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - [Most frequent errors and how to avoid them (version 3.0)](https://github.com/polito-WA-2026/.github/blob/main/profile/WA_Most_Frequent_Errors_v3.0.pdf)
 
 * [Exam #1: Theater](https://docs.google.com/document/d/1ELQnjqSU_-_uDVVcMuQlOG-ZT4_KkJBa-Phkq1Q2mt8/edit?usp=sharing) (deadline: Jun 18, 2026, 11:59pm)
-  - Doubts and questions to be put as COMMENTS in this doc, DO NOT DELETE or RESOLVE any existing comment, DO NOT edit text. Before adding doubts/questions, please check if a comment for your doubt already exists, please do not insert duplicate questions.
+  - [Document with all comments and corresponding answers added on the google doc](https://github.com/polito-WA-2026/.github/blob/main/profile/WA_exam1_theater__comments.pdf)
+  - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/qm-fpFT_](https://classroom.github.com/a/qm-fpFT_)
 
 
