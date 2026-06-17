@@ -13,6 +13,10 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/qm-fpFT_](https://classroom.github.com/a/qm-fpFT_)
 
+* [Exam #2: Sandwich](https://docs.google.com/document/d/1A-YJ4vOC3UWFSZIa9SczxYFM5zqEyNYfPRgfc5cXGzc/edit?usp=sharing) (deadline: Jul 7, 2026, 11:59pm)
+  - Doubts and questions to be put as COMMENTS in this doc, DO NOT DELETE or RESOLVE any existing comment, DO NOT edit text. Before adding doubts/questions, please check if a comment for your doubt already exists, please do not insert duplicate questions.
+  - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/gRhWiR3Q](https://classroom.github.com/a/gRhWiR3Q)
+
 
 ## Exam rules
 
