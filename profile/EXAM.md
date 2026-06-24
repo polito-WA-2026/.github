@@ -14,7 +14,7 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/qm-fpFT_](https://classroom.github.com/a/qm-fpFT_)
 
 * [Exam #2: Sandwich](https://docs.google.com/document/d/1A-YJ4vOC3UWFSZIa9SczxYFM5zqEyNYfPRgfc5cXGzc/edit?usp=sharing) (deadline: Jul 7, 2026, 11:59pm)
-  - [Document with all comments and corresponding answers added on the google doc](https://github.com/polito-WA-2026/.github/blob/main/profile/WA_exam2_sandwich_comments.pdf)
+  - [Document with all comments and corresponding answers added on the google doc](https://github.com/polito-WA-2026/.github/blob/main/profile/WA_exam2_sandwich__comments.pdf)
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/gRhWiR3Q](https://classroom.github.com/a/gRhWiR3Q)
 
